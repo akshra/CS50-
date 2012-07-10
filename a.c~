@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<cs50.h>
+void main()
+{
+string s=GetString();
+int n=strlen(s);
+printf("the value of n is %d",n);
+}
+
+
